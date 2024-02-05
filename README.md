@@ -1,7 +1,5 @@
-### Hi there 👋
 
-
-<h2 align="center">SATHYA SEELAN </h2>
+<h1 align="center"> I'm SATHYA SEELAN </h1>
 <h4 align="center">Software Engineer </h4>
 <h4 align="center">Blockchain Explorer </h4>
 
@@ -36,21 +34,8 @@
 <div align="center">
    
     <img src="https://skillicons.dev/icons?i=react,nodejs,java,python,nextjs,javascript,express,mysql" />
-    <img src="https://skillicons.dev/icons?i=c,html,css,vscode,github,figma,canva,git" /><br>
+    <img src="https://skillicons.dev/icons?i=c,html,css,vscode,github,figma,canva,git" />
+    <br>	
 </div>
 
-<br/>
-<hr/>
-<hr/>
 
-<h2 align="center">⚡ Stats ⚡</h2>
-<br>
-//STATS
-
-<br/><br/>
-
-<hr/>
-
-<br/>
-
-<br/>
