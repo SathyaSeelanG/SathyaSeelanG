@@ -1,7 +1,9 @@
 
-<h1 align="center"> I'm SATHYA SEELAN </h1>
-<h4 align="center">Software Engineer </h4>
-<h4 align="center">Blockchain Explorer </h4>
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+SATHYA +Seelan!;" />
+</h1>
+
+<h1 align="center">Software Engineer </h1>
+<h1 align="center">Blockchain Explorer </h1>
 
 <br/>
 
