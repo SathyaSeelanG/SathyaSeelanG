@@ -39,3 +39,11 @@
 </div>
 
 
+<div align=center>
+  <img width=390   src="https://raw.githubusercontent.com/SathyaSeelanG/SathyaSeelanG/53e3deeb41e0d317404bf0c88a0fee0e69c21494/Files/stats1.svg" alt="streak stats"/>
+  <img width=390  src="https://raw.githubusercontent.com/SathyaSeelanG/SathyaSeelanG/53e3deeb41e0d317404bf0c88a0fee0e69c21494/Files/stats2.svg"  alt="readme stats" />
+  <br/>
+  <img width=325 align="center" src="https://raw.githubusercontent.com/SathyaSeelanG/SathyaSeelanG/53e3deeb41e0d317404bf0c88a0fee0e69c21494/Files/stats3.svg" alt="top langs" />
+</div>
+
+
