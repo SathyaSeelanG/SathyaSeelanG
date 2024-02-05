@@ -1,5 +1,5 @@
 <h1 align="center">
-    HiThere!👋I'm SATHYA SEELAN!
+    Hi There!👋I'm SATHYA SEELAN!
    </h1>
 
 <h1 align="center">Software Engineer </h1>
