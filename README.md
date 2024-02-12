@@ -11,8 +11,6 @@
 <div align="center">
 
  🔭 I’m currently working on SPACESCAN
- 
- 🌱 I’m Chia Blockchain Explorer
 
 ⚡ I’m currently learning **Node Js, API , AWS***
 
