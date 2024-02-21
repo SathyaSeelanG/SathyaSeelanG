@@ -10,7 +10,9 @@
 
 <div align="center">
 
- 🔭 I’m currently working on SPACESCAN  🍃 Chia Blockchain Developer 🍃
+ 🔭 I’m currently working on SPACESCAN 
+ 
+ 🍃 Chia Blockchain Developer 🍃
 
 ⚡ I’m currently learning **Node Js, API , AWS***
 
