@@ -47,4 +47,4 @@
   <img width=395 align="center" src="https://raw.githubusercontent.com/SathyaSeelanG/SathyaSeelanG/d6d1083621ed748e33f30bf55b3cc2dd78505d76/Files/stats3.svg" alt="top langs" />
 </div>
 
-<h4>C</h4>
+<!-- <h4>C</h4> -->
