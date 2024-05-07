@@ -42,9 +42,9 @@
 <h2 align="center"> 🤖 Stats 🤖</h2>
 <div align=center>
   <img width=390   src="https://raw.githubusercontent.com/SathyaSeelanG/SathyaSeelanG/d6d1083621ed748e33f30bf55b3cc2dd78505d76/Files/stats1.svg" alt="streak stats"/>
-  <img width=390  src="https://raw.githubusercontent.com/SathyaSeelanG/SathyaSeelanG/d6d1083621ed748e33f30bf55b3cc2dd78505d76/Files/stats2.svg"  alt="readme stats" />
+  <img width=390  src="https://raw.githubusercontent.com/SathyaSeelanG/SathyaSeelanG/b918df75bad0e868376f2fd39d4949a3e030226e/Files/stats2.svg"  alt="readme stats" />
   <br/>
-  <img width=395 align="center" src="https://raw.githubusercontent.com/SathyaSeelanG/SathyaSeelanG/d6d1083621ed748e33f30bf55b3cc2dd78505d76/Files/stats3.svg" alt="top langs" />
+  <img width=395 align="center" src="https://raw.githubusercontent.com/SathyaSeelanG/SathyaSeelanG/b918df75bad0e868376f2fd39d4949a3e030226e/Files/stats3.svg" alt="top langs" />
 </div>
 
 <!-- <h4>C</h4> -->
