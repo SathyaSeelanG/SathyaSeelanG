@@ -15,7 +15,7 @@
 
  🔭 I’m currently working on SPACESCAN 
  
- 🍃 Chia Blockchain Developer 🍃
+ 🍃 Chia Blockchain  🍃
 
 ⚡ I’m currently learning **Node Js, API , AWS***
 
