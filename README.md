@@ -3,9 +3,9 @@
    </h1>
 <!-- <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=SathyaSeelanG.SathyaSeelanG" /> -->
 <!-- [![](https://visitcount.itsvg.in/api?id=SathyaSeelanG&label=Views&color=1&icon=5&pretty=true)](https://visitcount.itsvg.in) -->
-<a href="https://visitcount.itsvg.in">
+<!-- <a href="https://visitcount.itsvg.in">
   <img src="https://visitcount.itsvg.in/api?id=SathyaSeelanG&label=Views&color=1&icon=5&pretty=true" />
-</a>
+</a> -->
 <h1 align="center">Software Engineer </h1>
 
 
