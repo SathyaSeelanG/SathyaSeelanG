@@ -44,10 +44,10 @@
 
 <h2 align="center"> 🤖 Stats 🤖</h2>
 <div align=center>
-  <img width=390   src="https://raw.githubusercontent.com/SathyaSeelanG/SathyaSeelanG/refs/heads/main/Files/stats1.svg" alt="streak stats"/>
-  <img width=390  src="https://raw.githubusercontent.com/SathyaSeelanG/SathyaSeelanG/refs/heads/main/Files/stats2.svg"  alt="readme stats" />
+  <img width=390   src="https://github-readme-stats.vercel.app/api?username=SathyaSeelanG&theme=dark&show_icons=true&hide_border=true&count_private=true" alt="streak stats"/>
+  <img width=390  src="https://github-readme-streak-stats.herokuapp.com/?user=SathyaSeelanG&theme=dark&hide_border=true"  alt="readme stats" />
   <br/>
-  <img width=395 align="center" src="https://raw.githubusercontent.com/SathyaSeelanG/SathyaSeelanG/refs/heads/main/Files/stats3.svg" alt="top langs" />
+  <img width=395 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SathyaSeelanG&theme=dark&show_icons=true&hide_border=true&layout=compact" alt="top langs" />
 </div>
 
 <!-- <h4>C</h4> -->
