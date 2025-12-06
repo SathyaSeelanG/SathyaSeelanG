@@ -5,78 +5,39 @@
 
 <div align="center">
 
-🚀 Building scalable systems at <b>SpaceScan</b>  
-🍃 Working with <b>Chia Blockchain</b> — full node, smart contracts & tooling  
-⚙️ Focused on <b>Distributed Systems, API Engineering & Cloud Automation</b>  
-📚 Currently exploring <b>AWS, Node.js internals, and high-performance backend design</b>
+🚀 Software Engineer at <b>SpaceScan</b>  
+🍃 Working on <b>Chia Blockchain</b> analytics & infrastructure  
+⚙️ Specializing in <b>Backend Engineering, APIs, and Cloud Systems</b>  
+📚 Learning <b>AWS, Node.js internals, and scalable backend design</b>
 
 </div>
 
 ---
 
-## 🛠️ Tech Stack & Specializations
+## 🛠️ Tech Stack
 
-### 🌐 Frontend Engineering
+### 🌐 Frontend
 <div align="center">
   <img src="https://skillicons.dev/icons?i=react,nextjs,js,html,css,figma" />
 </div>
-<p align="center">
-• Modular UI architecture • API-driven UI • State management •  
-Responsive design • Charting & Data Visualization (D3.js)
-</p>
 
-### ⚙️ Backend & API Engineering
+### ⚙️ Backend & Cloud
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=nodejs,python,java,c,mysql,aws" />
+  <img src="https://skillicons.dev/icons?i=nodejs,python,mysql,postgres,aws" />
 </div>
+
 <p align="center">
-• RESTful APIs • Authentication (JWT) • Database Schema Design •  
-Serverless Functions • Distributed Services • Caching • Cloud Deployments  
+• REST APIs • Authentication • Database Design • Serverless (AWS Lambda) • Cloud Deployments  
 </p>
 
 ---
 
-## ✨ What I Love Building
-
-### 🚀 Scalable API Architectures  
-Clean, versioned, and optimized APIs with caching, rate limits, and monitoring.
-
-### 📦 Reusable Custom Components & Utilities  
-Custom-made utilities for:  
-- data formatting  
-- request wrappers  
-- caching helpers  
-- validation layers  
-- dynamic chart components  
-
-### 🔗 Blockchain Tools  
-- Blockchain analytics  
-- Mempool explorers  
-- Wallet & transaction tools  
-- Network visualizers  
-
-### ☁️ Cloud-Powered Systems  
-Deployments using:  
-- AWS Lambda  
-- DynamoDB  
-- EC2  
-- S3  
-- CloudWatch  
-- CI/CD Pipelines  
-
----
-
-## 🧪 Engineering Philosophy
-
-<div align="center">
-
-💡 Write scalable code, not temporary fixes  
-🧩 Clean architecture beats complexity  
-🚦 Test early, automate often  
-⚡ Performance matters — measure, optimize, repeat  
-🛠️ Every module should be reusable or removable  
-
-</div>
+## 📌 About Me
+<p align="center">
+I enjoy building clean, scalable backend systems, cloud-powered applications,  
+and blockchain analytics tools. I focus on writing maintainable code and  
+building systems that are simple, efficient, and reliable.
+</p>
 
 ---
 
