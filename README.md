@@ -5,10 +5,7 @@
 
 <div align="center">
 
-🚀 Software Engineer at <b>SpaceScan</b>  
-🍃 Working on <b>Chia Blockchain</b> analytics & infrastructure  
-⚙️ Specializing in <b>Backend Engineering, APIs, and Cloud Systems</b>  
-📚 Learning <b>AWS, Node.js internals, and scalable backend design</b>
+
 
 </div>
 
