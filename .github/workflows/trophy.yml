@@ -1,0 +1,37 @@
+name: Generate Trophy
+
+on:
+  schedule:
+    - cron: "0 18 * * *" # runs once a day
+  workflow_dispatch: {}
+  push:
+    branches:
+      - main
+    paths-ignore:
+      - "README.md"
+      - "profile-3d-contrib/**"
+      - "trophy.svg"
+
+permissions:
+  contents: write
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    name: generate-trophy
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Generate trophy
+        uses: Erik-Donath/github-profile-trophy@feature/generate-svg
+        with:
+          username: SathyaSeelanG
+          output_path: trophy.svg
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Commit & push if changed
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add trophy.svg
+          git commit -m "chore: regenerate trophy svg" && git push || echo "No changes to commit"

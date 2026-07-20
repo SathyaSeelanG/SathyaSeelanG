@@ -13,33 +13,21 @@
 
 ## 🛠️ Tech Stack
 
-<table align="center">
-<tr>
-<td align="center" width="50%">
-
-**🌐 Frontend**
-
-<img src="https://skillicons.dev/icons?i=react,nextjs,js,ts,html,css,tailwind,figma&theme=dark&perline=4" />
-
-</td>
-<td align="center" width="50%">
-
-**⚙️ Backend & Cloud**
-
-<img src="https://skillicons.dev/icons?i=nodejs,python,fastapi,express,mysql,postgres,mongodb,aws,docker&theme=dark&perline=5" />
-
-</td>
-</tr>
-</table>
+<p align="center">
+<img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,tailwind,html,css,figma&theme=dark&perline=8" />
+</p>
+<p align="center">
+<img src="https://skillicons.dev/icons?i=nodejs,express,fastapi,python,mysql,postgres,mongodb,aws,docker&theme=dark&perline=9" />
+</p>
 
 <p align="center">
 <img src="https://img.shields.io/badge/REST%20API%20Design-4da6ff?style=for-the-badge&logoColor=white" />
 <img src="https://img.shields.io/badge/AWS%20Lambda%20%2F%20S3%20%2F%20API%20Gateway-6b6ff5?style=for-the-badge&logoColor=white" />
 <img src="https://img.shields.io/badge/DynamoDB-8e2de2?style=for-the-badge&logoColor=white" />
 <br/>
-<img src="https://img.shields.io/badge/Docker-4da6ff?style=for-the-badge&logoColor=white" />
-<img src="https://img.shields.io/badge/AI%20Agent%20Workflows-6b6ff5?style=for-the-badge&logoColor=white" />
-<img src="https://img.shields.io/badge/LLM%2FRAG%20Integration-8e2de2?style=for-the-badge&logoColor=white" />
+<img src="https://img.shields.io/badge/AI%20Agent%20Workflows-4da6ff?style=for-the-badge&logoColor=white" />
+<img src="https://img.shields.io/badge/LLM%2FRAG%20Integration-6b6ff5?style=for-the-badge&logoColor=white" />
+<img src="https://img.shields.io/badge/CI%2FCD%20%26%20GitHub%20Actions-8e2de2?style=for-the-badge&logoColor=white" />
 </p>
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:4da6ff,100:8e2de2&height=3&section=header" width="100%"/>
@@ -47,7 +35,7 @@
 ## 🏆 Trophies
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=SathyaSeelanG&theme=algolia&no-frame=true&column=7&margin-w=8&margin-h=8&animation=slideInUp" />
+  <img src="https://raw.githubusercontent.com/SathyaSeelanG/SathyaSeelanG/main/trophy.svg" />
 </div>
 
 <img src="https://capsule-render.vercel.app/api?type=cylinder&color=0:4da6ff,100:8e2de2&height=100&section=header" width="100%"/>
