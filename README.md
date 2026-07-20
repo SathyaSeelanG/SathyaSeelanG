@@ -32,28 +32,6 @@
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:4da6ff,100:8e2de2&height=3&section=header" width="100%"/>
 
-## 🏆 Trophies
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/SathyaSeelanG/SathyaSeelanG/main/trophy.svg" />
-</div>
-
-<img src="https://capsule-render.vercel.app/api?type=cylinder&color=0:4da6ff,100:8e2de2&height=100&section=header" width="100%"/>
-
-## 🚀 Featured Live Projects
-
-<div align="center">
-
-| Project | Stack | Live |
-|---|---|---|
-| **AsroChat** | Next.js · TypeScript · AI/LLM (RAG) | [asrochat.app](https://asrochat.app/) |
-| **TinyLink** | React · Node.js · Neon (PostgreSQL) | [tiny-link-clone.vercel.app](https://tiny-link-clone.vercel.app/) |
-| **Technical Meet Registration** | Next.js · Supabase | [techknowfest25.vercel.app](https://techknowfest25.vercel.app/) |
-
-</div>
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:4da6ff,100:8e2de2&height=3&section=header" width="100%"/>
-
 ### 🔥 Streak Stats
 <div align="center">
   <img src="https://streak-stats.demolab.com/?user=SathyaSeelanG&theme=tokyonight&hide_border=true&border_radius=10" />
