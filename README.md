@@ -55,6 +55,27 @@
 
 <!-- STATS:START -->
 ### 📊 GitHub Insights
+
+| Metric | Value |
+|---|---|
+| Public repos | 43 |
+| Followers | 6 |
+| Following | 10 |
+| Total stars across repos | 0 |
+| Total forks across repos | 2 |
+| Account age | 3.6 years |
+
+**Top languages (by repo count):**
+
+| Language | Repos |
+|---|---|
+| TypeScript | 9 repos |
+| JavaScript | 8 repos |
+| Python | 6 repos |
+| HTML | 4 repos |
+| CSS | 2 repos |
+| Processing | 1 repo |
+
 <!-- STATS:END -->
 
 ### 🔥 Streak Stats
