@@ -7,26 +7,39 @@
   <img src="https://readme-typing-svg.demolab.com/?lines=Full-Stack+Developer;Building+AI+Agent+Systems+%40+Aimyze;AWS+%26+Node.js%2FExpress+Certified;Always+shipping+something+new&font=Fira+Code&center=true&width=650&height=40&color=4da6ff&vCenter=true&size=22" />
 </a>
 
-<img src="https://komarev.com/ghpvc/?username=SathyaSeelanG&label=Profile%20Views&color=4da6ff&style=for-the-badge" />
-
 </div>
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:4da6ff,100:8e2de2&height=3&section=header" width="100%"/>
 
 ## 🛠️ Tech Stack
 
-### 🌐 Frontend
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=react,nextjs,js,ts,html,css,tailwind,figma" />
-</div>
+<table align="center">
+<tr>
+<td align="center" width="50%">
 
-### ⚙️ Backend & Cloud
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=nodejs,python,fastapi,express,mysql,postgres,mongodb,aws,docker" />
-</div>
+**🌐 Frontend**
+
+<img src="https://skillicons.dev/icons?i=react,nextjs,js,ts,html,css,tailwind,figma&theme=dark&perline=4" />
+
+</td>
+<td align="center" width="50%">
+
+**⚙️ Backend & Cloud**
+
+<img src="https://skillicons.dev/icons?i=nodejs,python,fastapi,express,mysql,postgres,mongodb,aws,docker&theme=dark&perline=5" />
+
+</td>
+</tr>
+</table>
 
 <p align="center">
-• REST API Design • AWS Lambda / S3 / API Gateway • DynamoDB • Docker • AI Agent Workflows • LLM/RAG Integration
+<img src="https://img.shields.io/badge/REST%20API%20Design-4da6ff?style=for-the-badge&logoColor=white" />
+<img src="https://img.shields.io/badge/AWS%20Lambda%20%2F%20S3%20%2F%20API%20Gateway-6b6ff5?style=for-the-badge&logoColor=white" />
+<img src="https://img.shields.io/badge/DynamoDB-8e2de2?style=for-the-badge&logoColor=white" />
+<br/>
+<img src="https://img.shields.io/badge/Docker-4da6ff?style=for-the-badge&logoColor=white" />
+<img src="https://img.shields.io/badge/AI%20Agent%20Workflows-6b6ff5?style=for-the-badge&logoColor=white" />
+<img src="https://img.shields.io/badge/LLM%2FRAG%20Integration-8e2de2?style=for-the-badge&logoColor=white" />
 </p>
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:4da6ff,100:8e2de2&height=3&section=header" width="100%"/>
@@ -53,34 +66,9 @@
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:4da6ff,100:8e2de2&height=3&section=header" width="100%"/>
 
-<!-- STATS:START -->
-### 📊 GitHub Insights
-
-| Metric | Value |
-|---|---|
-| Public repos | 43 |
-| Followers | 6 |
-| Following | 10 |
-| Total stars across repos | 0 |
-| Total forks across repos | 2 |
-| Account age | 3.6 years |
-
-**Top languages (by repo count):**
-
-| Language | Repos |
-|---|---|
-| TypeScript | 9 repos |
-| JavaScript | 8 repos |
-| Python | 6 repos |
-| HTML | 4 repos |
-| CSS | 2 repos |
-| Processing | 1 repo |
-
-<!-- STATS:END -->
-
 ### 🔥 Streak Stats
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SathyaSeelanG&theme=tokyonight&hide_border=true&border_radius=10" />
+  <img src="https://streak-stats.demolab.com/?user=SathyaSeelanG&theme=tokyonight&hide_border=true&border_radius=10" />
 </div>
 
 ### 📈 Contribution Activity
@@ -88,9 +76,9 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=SathyaSeelanG&theme=react-dark&hide_border=true&area=true" />
 </div>
 
-### 🧊 Isometric Commit Calendar
+### 🧊 3D Contribution Graph
 <div align="center">
-  <img src="https://metrics.lowlighter.com/?login=SathyaSeelanG&template=classic&base=&config.timezone=Asia%2FKolkata&plugin_isocalendar=true&plugin_isocalendar_duration=full" />
+  <img src="https://raw.githubusercontent.com/SathyaSeelanG/SathyaSeelanG/main/profile-3d-contrib/profile-night-rainbow.svg" />
 </div>
 
 ### 🐍 Contribution Snake
@@ -111,6 +99,10 @@
   <a href="https://sathyaseelan.in">
      <img src="https://img.shields.io/badge/Portfolio-ff5722?style=for-the-badge&logo=vercel&logoColor=white" />
   </a>
+</div>
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=SathyaSeelanG&label=Profile%20Views&color=4da6ff&style=for-the-badge" />
 </div>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:8e2de2,100:4da6ff&height=100&section=footer&animation=fadeIn" />
